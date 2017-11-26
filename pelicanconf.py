@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Vipin G S'
-SITEURL = 'https://vipings.github.io/'
+SITEURL = 'https://vipings.com'
 SITENAME = 'Essential DataScince'
 SITETITLE = AUTHOR
 SITESUBTITLE  = 'I\'m Vipin, from Kerala, India. Working as Software Engineer. I love Open Source and programming'

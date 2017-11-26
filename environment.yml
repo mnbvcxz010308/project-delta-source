@@ -16,3 +16,5 @@ dependencies:
     - jsonschema==2.4.0
     - mistune==0.5.1
     - pylint
+    - beautifulsoup4
+    - ipython>=4.0
