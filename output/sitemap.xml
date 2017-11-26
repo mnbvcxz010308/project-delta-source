@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://vipings.github.io/</loc>
+<loc>https://vipings.com/</loc>
 <lastmod>2017-10-29T22:38:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://vipings.github.io/archives.html</loc>
+<loc>https://vipings.com/archives.html</loc>
 <lastmod>2017-10-29T22:38:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://vipings.github.io/tags.html</loc>
+<loc>https://vipings.com/tags.html</loc>
 <lastmod>2017-10-29T22:38:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://vipings.github.io/categories.html</loc>
+<loc>https://vipings.com/categories.html</loc>
 <lastmod>2017-10-29T22:38:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://vipings.github.io/comment-policy.html</loc>
+<loc>https://vipings.com/comment-policy.html</loc>
 <lastmod>2017-10-28T23:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://vipings.github.io/first-post.html</loc>
+<loc>https://vipings.com/first-post.html</loc>
 <lastmod>2017-10-26T20:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://vipings.github.io/category/posts.html</loc>
+<loc>https://vipings.com/category/posts.html</loc>
 <lastmod>2017-10-28T23:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://vipings.github.io/tag/comment-policy-disqus.html</loc>
+<loc>https://vipings.com/tag/comment-policy-disqus.html</loc>
 <lastmod>2017-10-28T23:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://vipings.github.io/tag/python-firsts.html</loc>
+<loc>https://vipings.com/tag/python-firsts.html</loc>
 <lastmod>2017-10-26T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://vipings.github.io/author/vipin-g-s.html</loc>
+<loc>https://vipings.com/author/vipin-g-s.html</loc>
 <lastmod>2017-10-28T23:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
