@@ -4,12 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Vipin G S'
 SITEURL = 'https://vipings.github.io/'
-SITENAME = 'vipings'
+SITENAME = 'Essential DataScince'
 SITETITLE = AUTHOR
 SITESUBTITLE  = 'I\'m Vipin, from Kerala, India. Working as Software Engineer. I love Open Source and programming'
 SITEDESCRIPTION = '%s\'s Thoughts and Writings' % AUTHOR
 SITELOGO = SITEURL + '/images/profile.jpg'
-#SITELOGO = 'https://pbs.twimg.com/profile_images/914885371095166976/yI0_Cn3O_400x400.jpg' 
+#SITELOGO = 'https://pbs.twimg.com/profile_images/914885371095166976/yI0_Cn3O_400x400.jpg'
 FAVICON = 'https://imgur.com/O6hIfF5'
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
@@ -26,7 +26,7 @@ CC_LICENSE = {
     'slug': 'by-sa'
 }
 COPYRIGHT_YEAR = 2017
-ADD_THIS_ID = 'ra-59f43d72a564b093' 
+ADD_THIS_ID = 'ra-59f43d72a564b093'
 #EXTRA_PATH_METADATA = {
 #    'extra/custom.css': {'path': 'static/custom.css'},
 #}
