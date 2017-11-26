@@ -3,7 +3,7 @@
 # GH_TOKEN should be an env variable that has a Github Personal token with access to the public repos
 
 # Target repo and branch to push the website
-TARGET_REPO=vipings/vipings.github.io.git
+TARGET_REPO=vipings/vipings.com.git
 BRANCH=gh-pages
 # Where does pelican output the website
 PELICAN_OUTPUT_FOLDER=output
