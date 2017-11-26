@@ -9,7 +9,7 @@ BRANCH=gh-pages
 PELICAN_OUTPUT_FOLDER=output
 
 if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
-    echo -e "Starting to deploy to Github Pages\n"
+    echo -e "Starting to deploy to Github Pages here\n"
     echo "Reached Here"
     if [ "$TRAVIS" == "true" ]; then
         git config --global user.email "travis@travis-ci.org"
